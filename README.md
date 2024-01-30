@@ -1,6 +1,7 @@
-<div style=" margin: auto; width: 50%;">
+<div style=" margin: auto;">
   ![Axalandrax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axalandrax&show_icons=true&theme=radical)
 </div>
+
 ## tecnologias
 
 <div style="display: inline_block"><br/>
